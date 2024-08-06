@@ -1,3 +1,3 @@
 import Maze
 def view(grid):
-    #TBD
+    print("This to test the gridviewer tracking")
